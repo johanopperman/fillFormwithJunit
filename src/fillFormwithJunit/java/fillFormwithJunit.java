@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
 import static junit.framework.TestCase.assertEquals;
 
-public class fillForm{
+public class fillFormwithJunit {
     private static WebDriver driver;
     @BeforeClass
     public static void openBrowser() {
